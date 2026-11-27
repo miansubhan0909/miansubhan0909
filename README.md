@@ -1,8 +1,8 @@
 # 💫 About Me:
 🔭 Working on: Full-stack web and mobile apps (Python, React, Tailwind, Flutter)<br><br>👯 Collaborating on: Open-source web development and cybersecurity utilities<br><br>🤝 Looking for help with: Scaling cloud deployments and backend architecture<br><br>🌱 Learning: Advanced systems hardening and mobile app development workflows<br><br>💬 Ask me about: Full-stack development or my offline workshop inventory app (Khalid Engineering)<br><br>⚡ Fun fact: When I'm not coding or running digital forensics, I'm usually tinkering with hardware or drinking tea over poetry.
-
+            
   
-## 🌐 Socials:
+## 🌐 Socials::
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/miansubhan0909/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/subhan-khalid-8a616733a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:miansubhan0909@gmail.com) 
  
 # 💻 Tech Stack:
